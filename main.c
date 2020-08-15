@@ -1,9 +1,3 @@
-/*
-name: Masamichi Tsukada
-student Number: 991508226
-I will make an honest and truthful effort to complete this assessment on my own
-Option : 3
-*/
 #include <stdio.h>
 #include <string.h>
 #include "class.h"
